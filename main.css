@@ -1,0 +1,45 @@
+body {
+    background-color: #f9690e;
+    width: auto;
+    height: auto;
+}
+
+.facilities-body {
+    margin-top: 131px;
+}
+
+.text h1 {
+    font-family: 'Play', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    line-height: 100%;
+    text-align: center;   
+    color: #ffffff;
+}
+
+.text p {
+    font-family: 'Play', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+    margin-top: 6px;
+}
+
+.margin-row {
+    margin-top: 77px;
+    margin-left: 5px;
+    text-align: center;
+}
+
+.facilities p {
+    font-family: 'Play', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 29px;
+    text-align: center;
+    color: #ffffff;   
+}
